@@ -2,7 +2,7 @@
 import os, re, glob, pathlib, shutil, time, datetime
 from pathlib import Path
 
-os.chdir("./20180520a")
+os.chdir("./20180528a")
 print(os.getcwd())
 print(os.listdir())
 
